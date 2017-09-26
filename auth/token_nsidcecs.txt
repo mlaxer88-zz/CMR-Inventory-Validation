@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+   <token>	
+      <username>cmr_nsidc_ops</username>
+      <password>P@lpat1ne</password>
+      <client_id>NSIDC_ECS</client_id>
+      <provider>NSIDC_ECS</provider>
+      <user_ip_address>127.0.0.1</user_ip_address>
+   </token>
